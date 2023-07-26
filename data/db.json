@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Computer",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "name": "Smart 67",
+      "price": "4500",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "name": "Smart 67",
+      "price": "4500",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "samsung s3",
+      "price": "400",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "asus rog 7",
+      "price": "11000",
+      "checked": true,
+      "id": 7
+    }
+  ]
+}
